@@ -1,0 +1,2 @@
+Nurian: modelo, página do usuário comum e estilos em CSS/ Bootstrap
+Víctor: página de Login, página administrativa(sem CSS) e lógicas do banco de dados
